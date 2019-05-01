@@ -48,6 +48,7 @@ public class LinkedList<T> {
             last.next = newNode;
             last = newNode;
         }
+        this.size++;
     }
 
     @Override
