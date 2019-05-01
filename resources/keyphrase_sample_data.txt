@@ -1,0 +1,4 @@
+Suppose we have a  set of english document  and wish to rank which document is most relavant
+to the query, the brown cow. A simple way to start out is by eliminating the documents that do
+not contain all the three words the brown , and the cow , but
+this still leaves many document.

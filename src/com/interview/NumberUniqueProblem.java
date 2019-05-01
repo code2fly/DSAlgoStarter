@@ -1,7 +1,8 @@
-package com.ds.hash;
+package com.interview;
 
 import java.util.*;
 
+// amazon phone/screen interview problem
 public class NumberUniqueProblem {
 
     public static void main(String[] args) {
