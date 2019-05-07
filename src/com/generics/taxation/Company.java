@@ -1,4 +1,4 @@
 package com.generics.taxation;
 
-public class Company {
+public class Company extends  Taxable{
 }
